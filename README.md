@@ -14,6 +14,8 @@ Lecture #1 "Python syntax. Data types" @Denis Vasilov @Roman Rodomansky @Ostap R
 https://www.youtube.com/watch?v=NH7ofFWmW-s
 
 
+Живе онлайн заняття "Стати Python розробником у 2019" @Denis Vasilov
+- https://www.youtube.com/watch?v=Vto7eNbHOic&t=3s&index=2&list=PLrnIcEtLtMObZJcZnMCNuchzrrEu0R3Fd
 
 Intro "Зрозуміти Python" Lecture #1 - "Softs-Skills #1 @Ostap Rodomansky"
  - https://www.youtube.com/watch?v=aOQgXSSgVtU
@@ -24,6 +26,8 @@ Lecture 2/5 "Зрозуміти Python" (Python Part #1) @Denis Vasilov
 Lecture 3/5 "Зрозуміти Python" (Python Part #2) by Yevhen Zabolotnyi
  - https://www.youtube.com/watch?v=V1gUZAkiqqQ&feature=youtu.be
 
+Lecture 4/5 "Зрозуміти Python" (Python Part #3) by Denis Vasilov
+- https://www.youtube.com/watch?v=lBv_mjMEQKM&list=PLrnIcEtLtMObZJcZnMCNuchzrrEu0R3Fd&index=6&t=0s
 
 Lecture 5/5 "Зрозуміти Python" (Soft-Skills. Part #2) by Ostap Rodomansky
  - https://www.youtube.com/watch?v=SB3DmOHdkNs
@@ -32,6 +36,12 @@ Lecture 5/5 "Зрозуміти Python" (Soft-Skills. Part #2) by Ostap Rodomans
 Живе онлайн заняття "Стати Python розробником у 2019" @Denis Vasilov
  - https://www.youtube.com/watch?v=Vto7eNbHOic&feature=youtu.be
 
+Введення в математичну логіку
+https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ
+
+Рекомендована книга
+Learning Python - O'Reilly Media
+- https://drive.google.com/file/d/0B2Y-n6IlHYliSXZxMk0xT0NSY1E/preview
 
 Additional materials:
 
